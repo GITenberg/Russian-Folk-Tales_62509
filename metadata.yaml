@@ -1,5 +1,5 @@
 _repo: Russian-Folk-Tales_62509
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Magnus, Leonard A. (Leonard Arthur)
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1924
     gutenberg_agent_id: '45434'
     url: http://www.gutenberg.org/2009/agents/45434
+covers:
+- cover_type: archival
+  image_path: 62509-h/images/cover.jpg
 creator:
   author:
     agent_name: Afanas'ev, A. N. (Aleksandr Nikolaevich)
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alexander_Afanasyev
     - https://ru.wikipedia.org/wiki/%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62509#Russian-Folk-Tales
 gutenberg_issued: '2020-06-28'
 gutenberg_type: Text
 identifiers:
